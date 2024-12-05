@@ -1,0 +1,22 @@
+Instrucciones:
+
+Como ganar: 
+
+- El jugador que se quede que sin cartas en su mazo primero, sera el GANADOR. 
+
+- Si se queda sin cartas el mazo donde se roban las cartas, GANA el jugador que tenga mas puntos en total.
+
+Como ganar puntos:
+
+Al tirar cartas (+2 o +4) se le haran preguntas de logica al jugador rival, Si responde bien ganara puntos y no recibira las cartas por la penalizacion del tipo especial
+
+Extras:
+
+- Si el jugador se queda sin cartas jugables puede robar hasta que pueda jugar una carta valida
+
+
+Caracteristicas Especiales:
+
+- La carta especial CAMBIO COLOR cambiara el color aleatoriamente asi que piensa bien antes de usarla
+
+- Recuerda siempre acumular los puntos maximos posibles para garantizar tu victoria en caso de que se acabe el mazo de ROBAR CARTAS, y piensa bien antes de tirar un +4 o +2 porque si el rival responde bien puede terminar ganando por diferencia de puntos.
